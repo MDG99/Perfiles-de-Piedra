@@ -1,6 +1,7 @@
 # Perfiles de Piedra
 ## Librerias requeridas
-- PySerial (``pip install pyserial`)
+- Instalar el driver correspondiente para que la PC detecte el arduino (https://electrocrea.com/blogs/tutoriales/como-instalar-driver-ch340-para-arduinos-genericos)
+- PySerial (`pip install pyserial`)
 - Agregar la librería para arduino *Arduino-PID-Library-master.zip* en el IDE
 
 ## Instrucciones de Uso
