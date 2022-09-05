@@ -14,4 +14,5 @@
 - Agregar más funcionalidades de control.
 
 ## Nota:
-**Verificar la verlocidad del PWM (Botón mostrar)**
+- Verificar la verlocidad del PWM (Botón mostrar)
+- Se tiene que utilizar una fuente mayor a 5 V con el Monster Shield para que el motor sea capaz de mover el perfil de piedra sin trabarse.
